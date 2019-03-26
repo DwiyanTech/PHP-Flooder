@@ -5,13 +5,13 @@
 | Visit icwr-tech.id & lunatictech.xyz 
 
 # How To Use ?
-| With PHP Command 
-| php dos.php  
-| IP = Your Target Host
-| Port = Target Port Default (80)
-| Max Size = (6500) 
+| With PHP Command <br>
+| php dos.php  <br>
+| IP = Your Target Host <br>
+| Port = Target Port Default (80)<br>
+| Max Size = (6500) <br>
 | Max Time = Max Time Running 
 
 # Update ?
-| Keep Visit My Website :) 
+| Keep Visit My Website :)  <br>
 | http://lunatictech.xyz 
